@@ -78,7 +78,7 @@ const ViewAll = styled.p`
         text-decoration: none;
         color: #9CB7CE;
     }
-`;
+`; 
 
 export default class Services extends Component {
     render() {
